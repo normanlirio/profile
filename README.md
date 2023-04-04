@@ -52,7 +52,11 @@ On my free time, I play Genshin Impact. I love the Pokemon franchise, collect tr
 ------------
 ## My Work
 
-[Here](https://github.com/normanlirio?tab=repositories "Here") are my sample projects to demonstrate my work as a QA Engineer
+[Cypress Automation Exercise](https://github.com/normanlirio/cypress-automation-practice "Cypress Automation Exercise")
+
+[Java + Selenium WebDriver Exercise](https://github.com/normanlirio/automationpractice "Java + Selenium WebDriver")
+
+
 
 
 
