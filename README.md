@@ -56,6 +56,7 @@ On my free time, I play Genshin Impact. I love the Pokemon franchise, collect tr
 
 [Java + Selenium WebDriver Exercise](https://github.com/normanlirio/automationpractice "Java + Selenium WebDriver")
 
+[Playwright Exercise](https://github.com/normanlirio/playwright-automation-practice "Playwright Exercise")
 
 
 
