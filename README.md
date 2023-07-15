@@ -12,7 +12,7 @@
 ## About Me
 Hello World! I am Ralph Norman Lirio
 
-A former Android Developer that shifted to QA Engineer.
+A former Android Developer who shifted to QA Engineer.
 
 #### Skils as an Android Developer
 - Java
