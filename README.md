@@ -25,6 +25,7 @@ A former Android Developer that shifted to QA Engineer.
 - TypeScript
 - JavaScript
 - CypressIO
+- Playwright
 - WebDriverIO
 - Java
 - Selenium WebDriver
