@@ -59,6 +59,9 @@ On my free time, I play Genshin Impact. I love the Pokemon franchise, collect tr
 
 [Playwright Exercise](https://github.com/normanlirio/playwright-automation-practice "Playwright Exercise")
 
+[WebdriverIO project]([https://github.com/normanlirio/cypress-automation-practice](https://github.com/normanlirio/ll-tech-test) "WebdriverIO project")
+
+
 ------------
 
 ## Contact
