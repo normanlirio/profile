@@ -1,5 +1,4 @@
 # My Github Resume
-<img src="https://github.com/normanlirio/profile/blob/main/assets/banner.gif" alt="Banner">
 
 ------------
 - [About Me](https://github.com/normanlirio/profile/edit/main/README.md#about-me "About Me")
