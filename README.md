@@ -29,6 +29,7 @@ A former Android Developer who shifted to QA Engineer.
 - Java
 - Selenium WebDriver
 - TestNG Framework
+- API Automation using Playwright/Vitest
 
 ## More About Me
 I worked as an Android Developer for 5 years. I applied Clean Code principle on Android development using Java and Kotlin. In addition, I was able to test APIs manually using Postman before integrating them to the Android applications.  Throughout those years, I learned different Android coding frameworks. I developed Android applications for healthcare, e-commerce, and telecommunication (cable TV) industries. I worked in a team where code reviews are done and Git best practices are applied. I also used test driven development in one of my e-commerce mobile applications.
