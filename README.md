@@ -31,11 +31,11 @@ A former Android Developer who shifted to QA Engineer.
 - TestNG Framework
 
 ## More About Me
-I worked as an Android Developer for 6 years. I applied Clean Code principle on Android development using Java and Kotlin. In addition, I was able to test APIs manually using Postman before integrating them to the Android applications.  Throughout those years, I learned different Android coding frameworks. I developed Android applications for healthcare, e-commerce, and telecommunication (cable TV) industries. I worked in a team where code reviews are done and Git best practices are applied. I also used test driven development in one of my e-commerce mobile applications.
+I worked as an Android Developer for 5 years. I applied Clean Code principle on Android development using Java and Kotlin. In addition, I was able to test APIs manually using Postman before integrating them to the Android applications.  Throughout those years, I learned different Android coding frameworks. I developed Android applications for healthcare, e-commerce, and telecommunication (cable TV) industries. I worked in a team where code reviews are done and Git best practices are applied. I also used test driven development in one of my e-commerce mobile applications.
 
 During my developer years, I was already performing Functional testing on UI and APIs that led me to my current role today.
 
-In the 3 years that I have become an official QA Engineer, I tested projects in various industries such as Transportation, Food, Fintech, and Project Management. I was the sole QA resource in my previous employer and worked with multiple projects at the same time. I created the automation framework from scratch for our in-house product, which was a project management web application.
+In the 4 years that I have become an official QA Engineer, I tested projects in various industries such as Transportation, Food, Fintech, and Project Management. I was the sole QA resource in my previous employer and worked with multiple projects at the same time. I created the automation framework from scratch for our in-house product, which was a project management web application.
 
 I created smoke tests using different automation tools - Java Selenium, Cypress, WebDriverIO and Playwright/TypeScript. The team then narrowed down the choices to Cypress and Playwright. I created regression tests to further test the capabilities of both tools to help decide which would be our best option for the long term. Eventually, the team decided to proceed using Cypress and I integrated it into our Gitlab CI.
 
