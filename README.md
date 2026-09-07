@@ -54,4 +54,4 @@ Before moving into QA, I worked as an **Android Developer**, working with:
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/normz-l-8460807b/)
+[LinkedIn](https://www.linkedin.com/in/normz-lirio-qa/)
