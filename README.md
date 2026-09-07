@@ -1,12 +1,12 @@
 # My Github Resume
 
-------------
-- [About Me](https://github.com/normanlirio/profile/edit/main/README.md#about-me "About Me")
-- [My Work](https://github.com/normanlirio/profile/edit/main/README.md#about-me "My Work")
-- [Contact](https://github.com/normanlirio/profile/edit/main/README.md#about-me "Contact")
+---
 
+* [About Me](#about-me)
+* [My Work](#my-work)
+* [Contact](#contact)
 
-------------
+---
 
 # 👋 Hello World!
 
@@ -14,7 +14,7 @@ I'm a **QA Automation Engineer** with 5+ years of experience in manual and autom
 
 My main focus is **Playwright, TypeScript, JavaScript, API automation, and CI/CD**. I also have experience with Cypress, WebdriverIO, Selenium, Postman, Vitest, Jenkins, and GitHub Actions.
 
-###  QA & Automation
+### QA & Automation
 
 * **Automation:** Playwright, Cypress, WebdriverIO, Selenium
 * **Languages:** TypeScript, JavaScript, Java
@@ -23,7 +23,7 @@ My main focus is **Playwright, TypeScript, JavaScript, API automation, and CI/CD
 * **Testing:** Functional, Regression, E2E, API, Manual
 * **Tools:** Git, Jira, TestRail
 
-###  Previous Experience
+### Previous Experience
 
 Before moving into QA, I worked as an **Android Developer**, working with:
 
@@ -32,25 +32,26 @@ Before moving into QA, I worked as an **Android Developer**, working with:
 * MySQL
 * JUnit
 
-###  Outside Work
+### Outside Work
 
-*  Genshin Impact
-*  Pokémon & trading cards
-*  NBA — Dallas Mavericks fan since 2003
+* 🎮 Genshin Impact
+* 🃏 Pokémon & trading cards
+* 🏀 NBA — Dallas Mavericks fan since 2003
 
-------------
+---
+
 ## My Work
 
-[Cypress Automation Exercise](https://github.com/normanlirio/cypress-automation-practice "Cypress Automation Exercise")
+[Cypress Automation Exercise](https://github.com/normanlirio/cypress-automation-practice)
 
-[Java + Selenium WebDriver Exercise](https://github.com/normanlirio/automationpractice "Java + Selenium WebDriver")
+[Java + Selenium WebDriver Exercise](https://github.com/normanlirio/automationpractice)
 
-[Playwright Exercise](https://github.com/normanlirio/playwright-automation-practice "Playwright Exercise")
+[Playwright Exercise](https://github.com/normanlirio/playwright-automation-practice)
 
-[WebdriverIO project](https://github.com/normanlirio/ll-tech-test "WebdriverIO project")
+[WebdriverIO Project](https://github.com/normanlirio/ll-tech-test)
 
-
-------------
+---
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/normz-l-8460807b/ "LinkedIn")
+
+[LinkedIn](https://www.linkedin.com/in/normz-l-8460807b/)
