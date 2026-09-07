@@ -48,7 +48,7 @@ Before moving into QA, I worked as an **Android Developer**, working with:
 
 [Playwright Exercise](https://github.com/normanlirio/playwright-automation-practice)
 
-[WebdriverIO Project](https://github.com/normanlirio/ll-tech-test)
+[WebdriverIO Project](https://github.com/normanlirio/wdio-norman-profile)
 
 ---
 
