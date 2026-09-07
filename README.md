@@ -8,43 +8,35 @@
 
 ------------
 
-## About Me
-Hello World!
+# 👋 Hello World!
 
-A former Android Developer who shifted to QA Engineer.
+I'm a **QA Automation Engineer** with 5+ years of experience in manual and automated testing.
 
-#### Skils as an Android Developer
-- Java
-- Kotlin
-- Android
-- MySQL
-- Unit test - jUnit
+My main focus is **Playwright, TypeScript, JavaScript, API automation, and CI/CD**. I also have experience with Cypress, WebdriverIO, Selenium, Postman, Vitest, Jenkins, and GitHub Actions.
 
-#### Skills as a QA Engineer
-- TypeScript
-- JavaScript
-- CypressIO
-- Playwright
-- WebDriverIO
-- Java
-- Selenium WebDriver
-- TestNG Framework
-- API Automation using Playwright/Vitest
+###  QA & Automation
 
-## More About Me
-I'm a QA Automation Engineer with strong experience in both manual and automated testing. I work with tools like Playwright, Cypress, WebdriverIO, and Selenium, and I'm confident using JavaScript, TypeScript, and Java for scripting. I also handle REST API testing using Postman and have experience with database testing using MS SQL.
+* **Automation:** Playwright, Cypress, WebdriverIO, Selenium
+* **Languages:** TypeScript, JavaScript, Java
+* **API:** Postman, Playwright, Vitest
+* **CI/CD:** GitHub Actions, Jenkins
+* **Testing:** Functional, Regression, E2E, API, Manual
+* **Tools:** Git, Jira, TestRail
 
-I'm used to working in Agile teams and regularly use Jira, TestRail, Git, and Jenkins or GitHub Actions for test management and CI/CD. My testing approach includes both BDD and TDD, and I’ve worked across industries like e-commerce, healthcare, transportation, and finance.
+###  Previous Experience
 
-Most of my recent work involves designing and maintaining automation frameworks, improving test coverage, and collaborating closely with developers and stakeholders to ensure smooth releases.
+Before moving into QA, I worked as an **Android Developer**, working with:
 
-Programming Languages: Typescript, Javascript, Kotlin, Android
-Manual Testing: Functional testing, Regression testing, Manual testing, Writing Test scenarios, Bug Reporting, API Testing
-Automation Testing: CypressIO, WebdriverIO
-Others: Google Cloud Platform, Hasura, Git
-OS: MacOS, Windows, ChromeOS
+* Java, Kotlin
+* Android
+* MySQL
+* JUnit
 
-On my free time, I play Genshin Impact. I love the Pokemon franchise, collect trading cards and played several of its games. I'm a big fan of NBA and my favorite team is the Dallas Mavericks since 2003.
+###  Outside Work
+
+*  Genshin Impact
+*  Pokémon & trading cards
+*  NBA — Dallas Mavericks fan since 2003
 
 ------------
 ## My Work
