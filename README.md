@@ -42,9 +42,11 @@ Before moving into QA, I worked as an **Android Developer**, working with:
 
 ## My Work
 
-[Cypress Automation Exercise](https://github.com/normanlirio/cypress-automation-practice)
+[Cypress Automation Exercise](https://github.com/normanlirio/cypress-norman-profile-1)
 
-[Java + Selenium WebDriver Exercise](https://github.com/normanlirio/automationpractice)
+[Cypress Automation Exercise 2](https://github.com/normanlirio/cypress-norman-profile-2)
+
+[Java + Selenium WebDriver Exercise](https://github.com/normanlirio/java-selenium-profile-nl)
 
 [Playwright Exercise](https://github.com/normanlirio/playwright-automation-practice)
 
