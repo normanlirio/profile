@@ -48,7 +48,7 @@ Before moving into QA, I worked as an **Android Developer**, working with:
 
 [Java + Selenium WebDriver Exercise](https://github.com/normanlirio/java-selenium-profile-nl)
 
-[Playwright Exercise](https://github.com/normanlirio/playwright-automation-practice)
+[Playwright Exercise](https://github.com/normanlirio/playwright-profile)
 
 [WebdriverIO Project](https://github.com/normanlirio/wdio-norman-profile)
 
